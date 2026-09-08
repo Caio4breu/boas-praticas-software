@@ -2,7 +2,7 @@
 
 Projeto Java desenvolvido para a atividade prática de Normas de Configuração de Software e Boas Práticas (SENAI FATESG).
 
-## Questão final
+## Perguntas:
 
 1. Qual era o principal problema do código original?
 O código original concentrava toda a lógica dentro do método `main`, e se utilizando de nomes pouco descritivos para as variáveis (`n`, `a`, `b`, `c`). Isso dificulta a compreensão do que cada parte do código fazia sem a necessidade de analisar linha por linha, além de misturar cálculo, decisão e apresentação de resultado em um único bloco.
