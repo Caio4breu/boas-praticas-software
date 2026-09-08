@@ -1,6 +1,6 @@
 public class Sistema {
 
-    private static final double mediaMinima = 7;
+    private static final double mediaMinima = 6;
 
     public static void main(String[] args) {
         String nomeAluno = "Carlos";
